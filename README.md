@@ -11,8 +11,6 @@ Project on Modrinth (Recommended For The Latest Updates): https://modrinth.com/d
 
 Project on CurseForge: https://www.curseforge.com/minecraft/data-packs/craftable-uncraftable-objects
 
-Project on GitHub (For The Source Code of The Mod in the Future): https://github.com/A7md70242602GH/Craftable-Uncraftable-Objects-CUO
-
 
 
 **🎁 Donate Me on**:
