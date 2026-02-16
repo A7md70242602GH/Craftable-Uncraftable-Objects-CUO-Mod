@@ -1,0 +1,134 @@
+<p>A Minecraft Project that adds crafting recipes for normally uncraftable items in Survival mode, along with custom advancements for a more rewarding experience.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>✨ <strong>Features</strong></p>
+<p>* <strong>New Crafting Recipes</strong>: Craft items like the Enchanted Golden Apple, Totem of Undying, Trident, Horse Armors, Chainmail Armor, and more.</p>
+<p>* <strong>Custom Advancements</strong>: Unique rewards for crafting special items.</p>
+<p>* <strong>Wide Compatibility</strong>: Supports Minecraft Java Edition from version 1.13.x up to the latest snapshots.</p>
+<p>&nbsp;</p>
+<p>📜&nbsp;<strong>Recipes</strong></p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Enchanted Golden Apple</strong></span></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_7bad9fb3-b050-485a-9f81-641651091f1b.png" alt=""></p>
+<hr>
+<p><span style="text-decoration: underline;"><strong>Totem of Undying</strong></span></p>
+<p><img src="https://media.forgecdn.net/attachments/description/null/description_e64a5777-7cba-459d-bed9-9e2462cbb419.png" alt="" width="482" height="271"></p>
+<hr>
+<p><span style="text-decoration: underline;"><strong>Elytra</strong></span></p>
+<p><img src="https://media.forgecdn.net/attachments/description/null/description_ee97da58-afe9-4e65-ac01-714ae563f9db.png" alt="" width="480" height="268"></p>
+<hr>
+<p><span style="text-decoration: underline;"><strong>Trident (1.21 or newer)</strong></span></p>
+<p><img src="https://media.forgecdn.net/attachments/description/null/description_e0073110-9d9c-41b7-acc5-2c566c3ae258.png" alt="" width="484" height="270"></p>
+<p><span style="text-decoration: underline;"><strong>Trident (1.20.6 or older)</strong></span></p>
+<p><span style="text-decoration: underline;"><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_440951ae-d3f3-489d-8972-50cb1a9b83fd.png" alt=""></strong></span></p>
+<hr>
+<p><span style="text-decoration: underline;"><strong>Chainmail Armors (1.16 or newer)</strong></span></p>
+<p>&nbsp;</p>
+<p>Chainmail Helmet</p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_bee28d4a-5883-4e22-8445-cbd84970ce14.png" alt="" width="480" height="265"></p>
+<p>Chainmail Chestplate</p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_35e912c0-9468-4911-bd94-654946af3b42.png" alt=""></p>
+<p>Chainmail Leggings</p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_40f1e208-9544-4ae3-a4f3-d42378c6d226.png" alt=""></p>
+<p>Chainmail Boots</p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_80d33e9e-0e17-4360-8ea4-eb8c6bb2d932.png" alt="" width="480" height="265"></p>
+<hr>
+<p><span style="text-decoration: underline;"><strong>Saddle (1.21.5 or older)</strong></span></p>
+<p><img src="https://media.forgecdn.net/attachments/description/null/description_8a75aeb4-c3cc-4e22-87b2-71cfaff0bb1c.png" alt="" width="480" height="266"></p>
+<hr>
+<p><span style="text-decoration: underline;"><strong>Horse Armors</strong></span></p>
+<p>&nbsp;</p>
+<p><strong>Diamond:</strong></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_fa9e779d-b2f1-4f36-997a-899f47a84575.png" alt="" width="482" height="266"></p>
+<p><strong>Golden:</strong></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_ed958d93-bdce-46f8-b872-ca79d11e04eb.png" alt="" width="480" height="266"></p>
+<p><strong>Iron:</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_e4a044de-dbe3-42d1-8380-64478a8c2058.png" alt="" width="482" height="268"></strong></p>
+<p><strong>Copper (1.21.9 or newer):</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_1c851266-091e-4fa6-9bd7-041a1301807c.png" alt=""></strong></p>
+<p><strong>Leather:</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_062ea182-8065-4ec8-b591-3357c16af0a7.png" alt="" width="484" height="271"></strong></p>
+<hr>
+<p><strong>Crying Obsidian (1.17 or newer)</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_7e15f4de-7baa-4694-8f55-1a68042fd0bb.png" alt="" width="475" height="265"></strong></p>
+<hr>
+<p>&nbsp;</p>
+<p><strong>Experience Bottle</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_6e9d4de7-5b41-4caf-a617-f28d39ba1f4b.png" alt=""></strong></p>
+<hr>
+<p>&nbsp;</p>
+<p><strong>Name Tag (1.21.11 or older)</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_b5c48a24-9271-40ab-bd59-6c51f9f86ec3.png" alt="" width="475" height="267"></strong></p>
+<hr>
+<p><strong>Cobweb</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_b66f1e61-fe12-47a4-9528-8ace6735901a.png" alt=""></strong></p>
+<hr>
+<p><strong>Debug Stick</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_e5602731-7164-44b3-93d6-b53f41ecbdf4.png" alt="" width="478" height="270"></strong></p>
+<p>Recommended to Use <a href="https://modrinth.com/datapack/tweaker-stick" target="_blank" rel="nofollow noopener">Tweaker Stick Data Pack</a> to able to use it with full functionality or instead use Creative mode to able to use it until I add an update that fix this problem.<strong><br></strong></p>
+<p>====================================================</p>
+<p>&nbsp;</p>
+<p><strong>🏆 Advancements</strong></p>
+<p><strong>1. Who Enchanting Armor Those Days?</strong></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_c4b70804-0173-4fa0-b4ec-02e9a33c7330.png" alt="Enchanted Golden Apple Advancement" width="826" height="540"></p>
+<p>You will get this Advancement when you craft or have an <strong>Enchanted Golden Apple</strong>.</p>
+<hr>
+<p><strong>2. Forget Die.</strong></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_bd312252-5e11-4ce1-acdb-7b253be611a1.png" alt="Totem of Undying Advancement" width="668" height="525"></p>
+<p>You will get this Advancement when you craft or have a <strong>Totem of Undying</strong>.</p>
+<hr>
+<p><strong>3. Water Weapon.</strong></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_8d03f998-c4da-43d4-907f-fb099246fce8.png" alt="Trident Advancement" width="618" height="530"></p>
+<p>You will get this Advancement when you craft or have a <strong>Trident</strong>.</p>
+<hr>
+<p><strong>4. It's Time to Take a Horse.</strong></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_a88d0a12-d517-4206-b1d5-1bdb693ce6a2.png" alt="Saddle Advancement" width="828" height="532"></p>
+<p>You will get this Advancement when you craft or have a <strong>Saddle</strong>.</p>
+<hr>
+<p><strong>5. WoW</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_d67fb52d-0ce0-4811-ab0c-e2ad917eb331.png" alt="" width="832" height="527"></strong></p>
+<p>You will get this Advancement when you craft or have an <strong>Experience Bottle.</strong></p>
+<p>🗒️ <strong>News</strong> <strong>&amp; Updates</strong></p>
+<p>To see the latest News about my Projects:</p>
+<p>&nbsp;</p>
+<p>Telegram: https://t.me/iAhmedMinecraft</p>
+<p>Patreon: <a href="https://www.patreon.com/c/iahmedminecraft/posts" target="_blank" rel="nofollow noopener">https://www.patreon.com/c/iahmedminecraft/posts</a></p>
+<p>Note: To Recive The Latest Versions of The Project, Go to the Modrinth Project Page https://modrinth.com/datapack/craftable-uncraftable-objects</p>
+<p><strong>Installation</strong> 🗂️</p>
+<p>Linux:</p>
+<p>&nbsp;</p>
+<p>World that already exists:</p>
+<p>1. Go to this location "~/.minecraft/saves/" (Make sure you are showing the Hidden Folders and Files by pressing Left Ctrl + H).</p>
+<p>2. Choose the world folder you want to put the Data Pack in it.</p>
+<p>3. Open datapacks folder, then put the data pack.zip in the datapacks folder.</p>
+<p>4. Reload the world by /reload command or by Quit the world and rejoin it.</p>
+<p>&nbsp;</p>
+<p>New World:</p>
+<p>1. Open Minecraft, then click on "Singleplayer".</p>
+<p>2. Click on "Create New World", then click "More World Options...".</p>
+<p>3. Click on "Data Packs" button, then drag the data pack file into Minecraft.</p>
+<p>4. Click "Done" and "Create New World".</p>
+<hr>
+<p>MacOS:</p>
+<p><br>World that already exists:<br>1. Go to this location "~/Library/Application Support/minecraft".<br>2. Choose the world folder you want to put the Data Pack in it.<br>3. Open datapacks folder, then put the data pack.zip in the datapacks folder.<br>4. Reload the world by /reload command or by Quit the world and rejoin it.</p>
+<p>New World:<br>1. Open Minecraft, then click on "Singleplayer".<br>2. Click on "Create New World", then click "More World Options...".<br>3. Click on "Data Packs" button, then drag the data pack file into Minecraft.<br>4. Click "Done" and "Create New World".</p>
+<hr>
+<p>Windows:</p>
+<p>&nbsp;</p>
+<p>World that already exists:</p>
+<p>1. Press Win + R, then type %appdata%, then press Enter.</p>
+<p>2. Open "Roaming" folder, then ".minecraft" folder, then open "saves" (Make sure you are showing the Hidden Folders and Files by pressing Left Ctrl + Left Shift + . (period)).</p>
+<p>4. Choose the world folder you want to put the Data Pack in it.</p>
+<p>5. Open datapacks folder, then put the data pack.zip in the datapacks folder.</p>
+<p>6. Reload the world by /reload command or by Quit the world and rejoin it.</p>
+<p>&nbsp;</p>
+<p>New World:</p>
+<p>1. Open Minecraft, then click on "Singleplayer".</p>
+<p>2. Click on "Create New World", then click "More World Options...".</p>
+<p>3. Click on "Data Packs" button, then drag the data pack file into Minecraft.</p>
+<p>4. Click "Done" and "Create New World".</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Enjoy!</p>
+<p>&nbsp;</p>
