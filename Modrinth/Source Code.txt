@@ -1,0 +1,316 @@
+A Minecraft Project that adds crafting recipes for normally uncraftable items in Survival mode, along with custom advancements for a more rewarding experience.
+
+**✨ Features**
+*   **New Crafting Recipes**: Craft items like the Enchanted Golden Apple, Totem of Undying, Trident, Horse Armors, Chainmail Armors, and more.
+*   **Custom Advancements**: Unique rewards for crafting special items.
+*   **Wide Compatibility**: Supports Minecraft Java Edition from version 1.13.x up to the latest snapshots.
+
+**🏆 Advancements**
+
+
+<details>
+<summary>Advancements</summary>
+
+
+<details>
+<summary>Who Enchanting Armor Those Days?</summary>
+
+![Enchanted Golden Apple Advancement](https://cdn.modrinth.com/data/cached_images/37fefe202558e3cb028bc1603398bf0e12c6fb06.png)
+
+You will get this Advancement when you craft or have an **Enchanted Golden Apple**.
+
+</details>
+
+
+<details>
+<summary>Forget Die.</summary>
+
+![Totem of Undying Advancement](https://cdn.modrinth.com/data/cached_images/ba18008a38c21b28787de8081f9b9feb642e8d7a.png)
+
+You will get this Advancement when you craft or have a **Totem of Undying**.
+
+</details>
+
+
+<details>
+<summary>Water Weapon.</summary>
+
+![Trident Advancement](https://cdn.modrinth.com/data/cached_images/d8a1ed19988996f6e81b416cc5b430efea5ac29e.png)
+
+You will get this Advancement when you craft or have a **Trident**.
+
+</details>
+
+
+<details>
+<summary>It's Time to Take a Horse.</summary>
+
+![Saddle Advancement](https://cdn.modrinth.com/data/cached_images/30ee0ae6dc27e1c255ff0b30a2223f672fc80be7.png)
+
+You will get this Advancement when you craft or have a **Saddle**.
+
+</details>
+
+
+<details>
+<summary>WoW!</summary>
+
+![Experience Bottle Advancement](https://cdn.modrinth.com/data/cached_images/713524805829ae6bc564a71b54f2685b039a3cd6.png)
+
+You will get this Advancement when you craft or have an **Experience Bottle**.
+
+</details>
+
+
+
+</details>
+
+**📜 Recipes**
+
+<details>
+<summary>Recipes</summary>
+
+
+<details>
+<summary>Chainmail Armors</summary>
+
+
+<details>
+<summary>Chainmail Helmet</summary>
+
+![Chainmail Helmet Recipe](https://cdn.modrinth.com/data/cached_images/91010c01a0c32dd7dd6e4d3ec1352997bf1c411d.png)
+
+</details>
+
+
+<details>
+<summary>Chainmail Chestplate</summary>
+
+![Chainmail Chestplate Recipe](https://cdn.modrinth.com/data/cached_images/ae38719218f53a44886d1a8d9fe397552ca0572b.png)
+
+</details>
+
+
+<details>
+<summary>Chainmail Leggings</summary>
+
+![Chainmail Leggings Recipe](https://cdn.modrinth.com/data/cached_images/c7ce261b0fb75b8f87c7ca417f0184fbc5608f57.png)
+
+</details>
+
+
+<details>
+<summary>Chainmail Boots</summary>
+
+![Chainmail Boots Recipe](https://cdn.modrinth.com/data/cached_images/c8b374d59a5ea91c66a0a47c0077bbd488899ef5.png)
+
+</details>
+
+
+</details>
+
+
+<details>
+<summary>Cobweb</summary>
+
+![Cobweb Recipe](https://cdn.modrinth.com/data/cached_images/d94c8480c0f082c7731d5a27c2dfc6fac496a446.png)
+
+</details>
+
+
+<details>
+<summary>Crying Obsidian (1.17 or newer)</summary>
+
+![Crying Obsidian Recipe](https://cdn.modrinth.com/data/cached_images/32d9c7fbec0135f5ead5b573c4ea18d54cdf52e5.png)
+
+</details>
+
+
+<details>
+<summary>Debug Stick</summary>
+
+![Debug Stick Recipe](https://cdn.modrinth.com/data/cached_images/1883e37e28e76b335307e1745ec330c17d36ece7.png)
+
+Recommended to Use **[Tweaker Stick Data Pack](https://modrinth.com/datapack/tweaker-stick)** to able to use it with full functionality or instead use Creative mode to able to use it until I add an update that fix this problem.
+
+</details>
+
+
+<details>
+<summary>Elytra</summary>
+
+![Elytra Recipe](https://cdn.modrinth.com/data/cached_images/1aa5bac9b321a15885afc97b11f8a029fa076f23.png)
+
+</details>
+
+
+<details>
+<summary>Enchanted Golden Apple</summary>
+
+![Enchanted Golden Apple](https://cdn.modrinth.com/data/cached_images/4dab79a18f2dacba46242421a6006d820a67aeef.png)
+
+</details>
+
+
+<details>
+<summary>Experience Bottle</summary>
+
+![Experience Bottle Recipe](https://cdn.modrinth.com/data/cached_images/7afbeedbc49ebab86edc534d2242e68940bdf937.png)
+
+</details>
+
+
+<details>
+<summary>Horse Armors</summary>
+
+
+<details>
+<summary>Diamond Horse Armor</summary>
+
+![Diamond Horse Armor Recipe](https://cdn.modrinth.com/data/cached_images/8f1d5ae84447b577065c46893112ae6a93fde500.png)
+
+</details>
+
+
+<details>
+<summary>Golden Horse Armor</summary>
+
+![Golden Horse Armor Recipe](https://cdn.modrinth.com/data/cached_images/7b51141c01e36aa84439277adfab33126f7fda9a.png)
+
+</details>
+
+
+<details>
+<summary>Iron Horse Armor</summary>
+
+![Iron Horse Armor Recipe](https://cdn.modrinth.com/data/cached_images/f159fd95893b832667f9b8b5a093f1852d0862f8.png)
+
+</details>
+
+
+<details>
+<summary>Copper Horse Armor (1.21.9 or newer)</summary>
+
+![Copper Horse Armor Recipe](https://cdn.modrinth.com/data/cached_images/38c1f3c87fd4dcdd5b940837112a773dafc70cbe.png)
+
+</details>
+
+
+<details>
+<summary>Leather Horse Armor</summary>
+
+![Leather Horse Armor Recipe](https://cdn.modrinth.com/data/cached_images/c650a7ffc94e3fd3c52893666090a60d06415af6.png)
+
+</details>
+
+
+</details>
+
+
+<details>
+<summary>Name Tag (1.21.11 or older)</summary>
+
+![Name Tag Recipe](https://cdn.modrinth.com/data/cached_images/6d22d6c2281e0a47243af958a0d77fe2e251a22e.png)
+
+</details>
+
+
+<details>
+<summary>Saddle (1.21.5 or older)</summary>
+
+![Saddle Recipe](https://cdn.modrinth.com/data/cached_images/ca52c3a0f543c868ecef1635e709f82505915289.png)
+
+</details>
+
+
+<details>
+<summary>Totem of Undying</summary>
+
+![Totem of Undying Recipe](https://cdn.modrinth.com/data/cached_images/0451d5ee75028e0583a4c888cb8569d39f1bf029.png)~~~~
+
+</details>
+
+
+<details>
+<summary>Trident</summary>
+
+**Trident (1.21 or newer)**
+
+![New Trident Recipe](https://cdn.modrinth.com/data/cached_images/719dbae353d3ab8b148df8f5f20de25ab0370e14.png)
+
+
+**Trident (1.20.6 or older)**
+
+![Old Trident Recipe](https://cdn.modrinth.com/data/cached_images/42081146b8c874e7fd16b18849a0209f27081145.png)
+
+</details>
+
+
+</details>
+
+**🗒️ News & Updates**
+
+To see the latest News about my Projects:
+
+
+Telegram: https://t.me/iAhmedMinecraft
+
+Patreon: https://www.patreon.com/c/iahmedminecraft/posts
+
+
+**🗂️ Installation**
+
+
+Linux:
+
+
+World that already exists:
+1. Go to this location "~/.minecraft/saves/" (Make sure you are showing the Hidden Folders and Files by pressing Left Ctrl + H).
+2. Choose the world folder you want to put the Data Pack in it.
+3. Open datapacks folder, then put the data pack.zip in the datapacks folder.
+4. Reload the world by /reload command or by Quit the world and rejoin it.
+
+New World:
+1. Open Minecraft, then click on "Singleplayer".
+2. Click on "Create New World", then click "More World Options...".
+3. Click on "Data Packs" button, then drag the data pack file into Minecraft.
+4. Click "Done" and "Create New World".
+
+----------------------------------------------
+
+MacOS:
+
+
+World that already exists:
+1. Go to this location "~/Library/Application Support/minecraft".
+2. Choose the world folder you want to put the Data Pack in it.
+3. Open datapacks folder, then put the data pack.zip in the datapacks folder.
+4. Reload the world by /reload command or by Quit the world and rejoin it.
+
+New World:
+1. Open Minecraft, then click on "Singleplayer".
+2. Click on "Create New World", then click "More World Options...".
+3. Click on "Data Packs" button, then drag the data pack file into Minecraft.
+4. Click "Done" and "Create New World".
+
+----------------------------------------------
+
+Windows:
+
+
+World that already exists:
+1. Press Win + R, then type %appdata%, then press Enter.
+2. Open "Roaming" folder, then ".minecraft" folder, then open "saves" (Make sure you are showing the Hidden Folders and Files by pressing Left Ctrl + Left Shift + . (period)).
+4. Choose the world folder you want to put the Data Pack in it.
+5. Open datapacks folder, then put the data pack.zip in the datapacks folder.
+6. Reload the world by /reload command or by Quit the world and rejoin it.
+
+New World:
+1. Open Minecraft, then click on "Singleplayer".
+2. Click on "Create New World", then click "More World Options...".
+3. Click on "Data Packs" button, then drag the data pack file into Minecraft.
+4. Click "Done" and "Create New World".
+
+
+
+Enjoy!
