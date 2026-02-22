@@ -72,13 +72,21 @@ You will get this Advancement when you craft or have an **Experience Bottle**.
 
 
 <details>
+<summary>Bell</summary>
+
+![Bell Recipe](https://cdn.modrinth.com/data/cached_images/f3e34c1750a54d71047766393a78eb37b0587e40.png)
+
+</details>
+
+
+<details>
 <summary>Chainmail Armors</summary>
 
 
 <details>
 <summary>Chainmail Helmet</summary>
 
-![Chainmail Helmet Recipe](https://cdn.modrinth.com/data/cached_images/91010c01a0c32dd7dd6e4d3ec1352997bf1c411d.png)
+![Chainmail Helmet](https://cdn.modrinth.com/data/cached_images/0add4b793bb59eee925c672b4a3970a582d248a5.png)
 
 </details>
 
@@ -86,7 +94,7 @@ You will get this Advancement when you craft or have an **Experience Bottle**.
 <details>
 <summary>Chainmail Chestplate</summary>
 
-![Chainmail Chestplate Recipe](https://cdn.modrinth.com/data/cached_images/ae38719218f53a44886d1a8d9fe397552ca0572b.png)
+![Chainmail Chestplate Recipe](https://cdn.modrinth.com/data/cached_images/c243785cf0515e2cb99e8a905eae57f7b0ddf71f.png)
 
 </details>
 
@@ -94,7 +102,7 @@ You will get this Advancement when you craft or have an **Experience Bottle**.
 <details>
 <summary>Chainmail Leggings</summary>
 
-![Chainmail Leggings Recipe](https://cdn.modrinth.com/data/cached_images/c7ce261b0fb75b8f87c7ca417f0184fbc5608f57.png)
+![Chainmail Leggings Recipe](https://cdn.modrinth.com/data/cached_images/2de08c737e1790d5ea01f4d4c8287b3c83b0684a.png)
 
 </details>
 
@@ -102,7 +110,7 @@ You will get this Advancement when you craft or have an **Experience Bottle**.
 <details>
 <summary>Chainmail Boots</summary>
 
-![Chainmail Boots Recipe](https://cdn.modrinth.com/data/cached_images/c8b374d59a5ea91c66a0a47c0077bbd488899ef5.png)
+![Chainmail Boots Recipe](https://cdn.modrinth.com/data/cached_images/ad72e5db7d1b70ae6b5cb710ba5fcfeddb044e32.png)
 
 </details>
 
@@ -121,7 +129,7 @@ You will get this Advancement when you craft or have an **Experience Bottle**.
 <details>
 <summary>Crying Obsidian (1.17 or newer)</summary>
 
-![Crying Obsidian Recipe](https://cdn.modrinth.com/data/cached_images/32d9c7fbec0135f5ead5b573c4ea18d54cdf52e5.png)
+![Crying Obsidian Recipe](https://cdn.modrinth.com/data/cached_images/44ed3f9e4125212c260538828bb3d23bb465d4cc.png)
 
 </details>
 
@@ -129,7 +137,7 @@ You will get this Advancement when you craft or have an **Experience Bottle**.
 <details>
 <summary>Debug Stick</summary>
 
-![Debug Stick Recipe](https://cdn.modrinth.com/data/cached_images/1883e37e28e76b335307e1745ec330c17d36ece7.png)
+![Debug Stick Recipe](https://cdn.modrinth.com/data/cached_images/1630fa2509882f2bec7f42504d13a6a3a01c2756.png)
 
 Recommended to Use **[Tweaker Stick Data Pack](https://modrinth.com/datapack/tweaker-stick)** to able to use it with full functionality or instead use Creative mode to able to use it until I add an update that fix this problem.
 
@@ -156,6 +164,20 @@ Recommended to Use **[Tweaker Stick Data Pack](https://modrinth.com/datapack/twe
 <summary>Experience Bottle</summary>
 
 ![Experience Bottle Recipe](https://cdn.modrinth.com/data/cached_images/7afbeedbc49ebab86edc534d2242e68940bdf937.png)
+
+</details>
+
+
+<details>
+<summary>Gunpowder</summary>
+
+![Gunpowder Recipe (Coal)](https://cdn.modrinth.com/data/cached_images/5dd9556018109526703338bca9504077e1276cca.png)
+
+![Gunpowder Recipe (Charcoal)](https://cdn.modrinth.com/data/cached_images/b4fa707a975f85a19f0addc70822b18329b0fcf8.png)
+
+It will take 30 seconds to give you 1 **Gunpowder**.
+
+(Only works on Furnace)
 
 </details>
 
@@ -201,8 +223,22 @@ Recommended to Use **[Tweaker Stick Data Pack](https://modrinth.com/datapack/twe
 
 ![Leather Horse Armor Recipe](https://cdn.modrinth.com/data/cached_images/c650a7ffc94e3fd3c52893666090a60d06415af6.png)
 
+(Only works on Furnace)
+
 </details>
 
+
+</details>
+
+
+<details>
+<summary>Leather</summary>
+
+![Leather Recipe](https://cdn.modrinth.com/data/cached_images/a57faff967af2f5ce33f59ae8bc242948ff0990a.png)
+
+It will take 10 seconds to give you 1 **Leather**.
+
+(Only works on Furnace)
 
 </details>
 
@@ -216,7 +252,62 @@ Recommended to Use **[Tweaker Stick Data Pack](https://modrinth.com/datapack/twe
 
 
 <details>
-<summary>Saddle (1.21.5 or older)</summary>
+<summary>Nautilus Armors (1.21.11 or newer)</summary>
+
+
+<details>
+<summary>Diamond Nautilus Armor</summary>
+
+![Diamond Nautilus Armor Recipe](https://cdn.modrinth.com/data/cached_images/f713e8d594f8dc775d65704e29eb412e58776208.png)
+
+</details>
+
+
+<details>
+<summary>Golden Nautilus Armor</summary>
+
+![Golden Nautilus Armor Recipe](https://cdn.modrinth.com/data/cached_images/fcabcd93c9fa1fee81fb3e4ab6dd85350ef26005.png)
+
+</details>
+
+
+<details>
+<summary>Iron Nautilus Armor</summary>
+
+![Iron Nautilus Armor Recipe](https://cdn.modrinth.com/data/cached_images/9bcedea8daddb27af77143206a27934de0438abf.png)
+
+</details>
+
+
+<details>
+<summary>Copper Nautilus Armor</summary>
+
+![Copper Nautilus Armor Recipe](https://cdn.modrinth.com/data/cached_images/8f16f85c52deffd675911932f41894479516da17.png)
+
+</details>
+
+
+</details>
+
+
+<details>
+<summary>Nautilus Shell</summary>
+
+![Nautilus Shell Recipe](https://cdn.modrinth.com/data/cached_images/2b3ed38ac572bc8ab4dcecdc8e85a4166a34e06c.png)
+
+</details>
+
+
+<details>
+<summary>Recycling Packed Ice</summary>
+
+![Recycling Packed Ice Recipe](https://cdn.modrinth.com/data/cached_images/9540c01a67e18096689c11053f20f992b6196288.png)
+
+</details>
+
+
+<details>
+<summary>Saddle</summary>
 
 ![Saddle Recipe](https://cdn.modrinth.com/data/cached_images/ca52c3a0f543c868ecef1635e709f82505915289.png)
 
