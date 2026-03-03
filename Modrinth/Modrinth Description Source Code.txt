@@ -351,6 +351,24 @@ To see the latest News about my Projects:
 Discord: (Coming Soon..)
 
 
+**📂 Source Code & Issues**
+
+To see the Source Code of the Project:
+
+
+[GitLab](https://gitlab.com/iahmed_7024-group/craftable-uncraftable-objects) (Recommended for the latest Source Code updates)
+
+[GitHub](https://github.com/A7md70242602GH/Craftable-Uncraftable-Objects-CUO)
+
+
+To report about a problem:
+
+
+[GitLab](https://gitlab.com/iahmed_7024-group/craftable-uncraftable-objects/-/issues)
+
+[GitHub](https://github.com/A7md70242602GH/Craftable-Uncraftable-Objects-CUO/issues)
+
+
 **🗂️ Installation**
 
 
